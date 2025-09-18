@@ -380,7 +380,7 @@ section{
     height: 150px;
     width: 150px; 
     border-radius: 100px; 
-    
+    object-fit: cover;
 }
 
 .our-team-box h1{
